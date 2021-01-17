@@ -1,0 +1,6 @@
+.Card {
+  height: 300px;
+  width: 300px;
+  background: #f8f3f3;
+  cursor: pointer;
+}
